@@ -19,3 +19,5 @@ log.txt
 .coverage
 coverage.xml
 htmlcov/
+
+/env
